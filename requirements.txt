@@ -1,0 +1,11 @@
+black
+ipympl
+isort
+loguru
+matplotlib
+numpy
+pandas
+pytest
+seaborn
+torch
+tqdm
