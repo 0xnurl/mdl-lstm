@@ -1,5 +1,7 @@
 # MDL-LSTM
 
+Code and results for "Bridging the Empirical-Theoretical Gap in Neural Network Formal Language Learning Using Minimum Description Length".
+
 <img src="assets/regs.png" width="550px" style="margin: 15px 0 5px 0">
 
 * To reproduce the plots and results from the paper, see `paper-plots.ipynb`.
