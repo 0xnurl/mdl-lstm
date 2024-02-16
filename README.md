@@ -1,6 +1,6 @@
 # MDL-LSTM
 
-Code and results for "Bridging the Empirical-Theoretical Gap in Neural Network Formal Language Learning Using Minimum Description Length".
+Code and results for ["Bridging the Empirical-Theoretical Gap in Neural Network Formal Language Learning Using Minimum Description Length"](https://arxiv.org/abs/2402.10013).
 
 <img src="assets/regs.png" width="550px" style="margin: 15px 0 5px 0">
 
